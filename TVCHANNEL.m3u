@@ -1,4 +1,4 @@
-
+0
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
@@ -86,35 +86,65 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 #EXTINF:-1 tvg-chno="36"  tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-chno="37" group-title="THAI Digital TV" tvg-name="อนุบาล1",อนุบาล1
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-chno="38" group-title="THAI Digital TV" tvg-name="อนุบาล2",อนุบาล2
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-chno="39" group-title="THAI Digital TV" tvg-name="อนุบาล3",อนุบาล3
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-chno="40" group-title="THAI Digital TV" tvg-name="ประถมศึกษาปีที่1",ประถมศึกษาปีที่1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="41" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-chno="41" group-title="THAI Digital TV" tvg-name="ประถมศึกษาปีที่2",ประถมศึกษาปีที่2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-chno="42" group-title="THAI Digital TV" tvg-name="ประถมศึกษาปีที่3",ประถมศึกษาปีที่3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="43" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-chno="43" group-title="THAI Digital TV" tvg-name="ประถมศึกษาปีที่4",ประถมศึกษาปีที่4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="44" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-chno="44" group-title="THAI Digital TV" tvg-name="ประถมศึกษาปีที่5",ประถมศึกษาปีที่5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-chno="45" group-title="THAI Digital TV" tvg-name="ประถมศึกษาปีที่6",ประถมศึกษาปีที่6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-chno="46" group-title="THAI Digital TV" tvg-name="มัธยมศึกษาปีที่1",มัธยมศึกษาปีที่1
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-chno="47" group-title="THAI Digital TV" tvg-name="มัธยมศึกษาปีที่2",มัธยมศึกษาปีที่2
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-chno="48" group-title="THAI Digital TV" tvg-name="มัธยมศึกษาปีที่3",มัธยมศึกษาปีที่3
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-chno="49" group-title="THAI Digital TV" tvg-name="มัธยมศึกษาปีที่4",มัธยมศึกษาปีที่4
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-chno="50" group-title="THAI Digital TV" tvg-name="มัธยมศึกษาปีที่5",มัธยมศึกษาปีที่5
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="THAI Digital TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
+https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-chno="48"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Digital TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
+#EXTINF:-1 tvg-chno="52"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Digital TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="48"  tvg-id="boom.th" tvg-name="Boomerang TH" group-title="Satellite TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5i0jnG1L2ldECz8hq6VygylWUQ0TWG1S_yozMXIJK442ytc&s",Boomerang TH
+#EXTINF:-1 tvg-chno="53"  tvg-id="boom.th" tvg-name="Boomerang TH" group-title="Satellite TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5i0jnG1L2ldECz8hq6VygylWUQ0TWG1S_yozMXIJK442ytc&s",Boomerang TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="49"  tvg-id="white.th" tvg-name="White Channel" group-title="Satellite TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/whitechannel.png",White Channel
+#EXTINF:-1 tvg-chno="54"  tvg-id="white.th" tvg-name="White Channel" group-title="Satellite TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/whitechannel.png",White Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://symc-cdn.violin.co.th/tndedge/whitechannel/chunklist_w386511427.m3u8
 
-#EXTINF:-1 tvg-chno="50"  tvg-id="cnn.th" tvg-name="CNN" group-title="International TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png",CNN
+#EXTINF:-1 tvg-chno="55"  tvg-id="cnn.th" tvg-name="CNN" group-title="International TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
+#EXTINF:-1 tvg-chno="56"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-35/.m3u8
 
-#EXTINF:-1 tvg-chno="52"  tvg-id="ch8.th" tvg-name="Channel 8" group-title="Local TV" tvg-logo="https://online-television.net/uploads/posts/2023-03/thumbs/channel8thailand.webp",Channel 8
+#EXTINF:-1 tvg-chno="57"  tvg-id="ch8.th" tvg-name="Channel 8" group-title="Local TV" tvg-logo="https://online-television.net/uploads/posts/2023-03/thumbs/channel8thailand.webp",Channel 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w330843011.m3u8
 
-#EXTINF:-1 tvg-chno="53"  tvg-id="news1.th" tvg-name="NEWS1" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWobJdH9qrSyJWWlt5BgPUcnAC7rDPR3zrdpEdFuVEwDHocw&s",NEWS 1
+#EXTINF:-1 tvg-chno="58"  tvg-id="news1.th" tvg-name="NEWS1" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWobJdH9qrSyJWWlt5BgPUcnAC7rDPR3zrdpEdFuVEwDHocw&s",NEWS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://news1.live14.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 tvg-chno="54"  tvg-id="bbcamerica.th" tvg-name="BBC America" group-title="International TV" tvg-logo="https://play-lh.googleusercontent.com/3-OllDHiJzCKpx3omEd8LVRh9-NKS1dLj7oygTf0NPwrtrC06Hl7ULYgcxbmcaGRY_mN",BBC America
+#EXTINF:-1 tvg-chno="59"  tvg-id="bbcamerica.th" tvg-name="BBC America" group-title="International TV" tvg-logo="https://play-lh.googleusercontent.com/3-OllDHiJzCKpx3omEd8LVRh9-NKS1dLj7oygTf0NPwrtrC06Hl7ULYgcxbmcaGRY_mN",BBC America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
