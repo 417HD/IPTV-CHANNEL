@@ -132,7 +132,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="THAI Digital TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-chno="52"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Digital TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
+#EXTINF:-1 tvg-chno="52"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -152,11 +152,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-35/.m3u8
 
-#EXTINF:-1 tvg-chno="57"  tvg-id="ch8.th" tvg-name="Channel 8" group-title="Local TV" tvg-logo="https://online-television.net/uploads/posts/2023-03/thumbs/channel8thailand.webp",Channel 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w330843011.m3u8
-
-#EXTINF:-1 tvg-chno="58"  tvg-id="news1.th" tvg-name="NEWS1" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWobJdH9qrSyJWWlt5BgPUcnAC7rDPR3zrdpEdFuVEwDHocw&s",NEWS 1
+#EXTINF:-1 tvg-chno="58"  tvg-id="news1.th" tvg-name="NEWS1" group-title="Satellite TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWobJdH9qrSyJWWlt5BgPUcnAC7rDPR3zrdpEdFuVEwDHocw&s",NEWS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://news1.live14.com/stream/news1_hi.m3u8
 
