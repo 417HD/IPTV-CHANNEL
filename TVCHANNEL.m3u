@@ -132,7 +132,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-chno="52"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Digital TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
+#EXTINF:-1 tvg-chno="52"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stmv1.srvif.com/animetv/animetv/chunklist_w2111242232.m3u8
 
@@ -148,14 +148,18 @@ https://symc-cdn.violin.co.th/tndedge/whitechannel/chunklist_w386511427.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="56"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
+#EXTINF:-1 tvg-chno="56"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Online TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-35/.m3u8
 
-#EXTINF:-1 tvg-chno="58"  tvg-id="news1.th" tvg-name="NEWS1" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWobJdH9qrSyJWWlt5BgPUcnAC7rDPR3zrdpEdFuVEwDHocw&s",NEWS 1
+#EXTINF:-1 tvg-chno="58"  tvg-id="news1.th" tvg-name="NEWS1" group-title="Satellite TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWobJdH9qrSyJWWlt5BgPUcnAC7rDPR3zrdpEdFuVEwDHocw&s",NEWS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 tvg-chno="59"  tvg-id="bbcamerica.th" tvg-name="BBC America" group-title="International TV" tvg-logo="https://play-lh.googleusercontent.com/3-OllDHiJzCKpx3omEd8LVRh9-NKS1dLj7oygTf0NPwrtrC06Hl7ULYgcxbmcaGRY_mN",BBC America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="60"  tvg-id="mvtv.th" tvg-name="MVTV CHANNEL" group-title="Satellite TV" tvg-logo="https://jobs.techtalkthai.com/wp-content/uploads/2019/05/mvtv.png",MVTV CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/chunks.m3u8?nimblesessionid=13548497
