@@ -152,10 +152,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-35/.m3u8
 
-#EXTINF:-1 tvg-chno="57"  tvg-id="ch8.th" tvg-name="Channel 8" group-title="Local TV" tvg-logo="https://online-television.net/uploads/posts/2023-03/thumbs/channel8thailand.webp",Channel 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w330843011.m3u8
-
 #EXTINF:-1 tvg-chno="58"  tvg-id="news1.th" tvg-name="NEWS1" group-title="Local TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWobJdH9qrSyJWWlt5BgPUcnAC7rDPR3zrdpEdFuVEwDHocw&s",NEWS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://news1.live14.com/stream/news1_hi.m3u8
