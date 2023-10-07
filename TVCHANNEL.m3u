@@ -134,7 +134,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 #EXTINF:-1 tvg-chno="52"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Digital TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1403771829.m3u8
+https://stmv1.srvif.com/animetv/animetv/chunklist_w2111242232.m3u8
 
 #EXTINF:-1 tvg-chno="53"  tvg-id="boom.th" tvg-name="Boomerang TH" group-title="Satellite TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5i0jnG1L2ldECz8hq6VygylWUQ0TWG1S_yozMXIJK442ytc&s",Boomerang TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
