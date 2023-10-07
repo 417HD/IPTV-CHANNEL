@@ -30,6 +30,14 @@ https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/TPTV3/index.m3u8
 
+#EXTINF:-1 tvg-chno="12"  tvg-id="wetv.th" tvg-name="WETV12HD" group-title="Online TV" tvg-logo="https://yt3.ggpht.com/DWSW0vcIYipMfJjdHh67naien15ACbfLTsQc05ojZ5rJ2j-mGA7-7MYDLG9YtIEQQaQSE-DxJw=s176-c-k-c0x00ffffff-no-rj-mo",WETV12HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
+#EXTINF:-1 tvg-chno="13"  tvg-id="ils.th" tvg-name="I LOVE SAKURA TV HD/13" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/385364045_1478613352996163_8809090897082159279_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeE5yeFSddVgZPGzp5W_auNEYERtq-lGhuVgRG2r6UaG5Qvlr59HuAZN4Kcf10iLtUHJt4_Yzvqqd8LBIfygyW13&_nc_ohc=PVQdI0BTCFgAX9oyWZj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQFmQECKnaRBVofOQmYfo68t2B6N2rR9kHFrV_x-c5M9Q&oe=654893A5",I LOVE SAKURA TV HD/13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
 #EXTINF:-1 tvg-chno="16"  tvg-id="TNN16.th" tvg-name="TNN 16" group-title="Digital TV" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
@@ -41,6 +49,14 @@ https://outbound-production.explore.org/stream-production-35/.m3u8
 #EXTINF:-1 tvg-chno="18"  tvg-id="JKN18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+
+#EXTINF:-1 tvg-chno="19"  tvg-id="nstv.th" tvg-name="NSTV HD 19" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/358302969_1736754440094746_3004011572599768573_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGWoTMPFCABD5QwKuhqS7JS_2JlpOQ2jv__YmWk5DaO_yFKxG4ySzfFJ8uBDTFVJCTmM8vpDckD5DBr1L-c-9zi&_nc_ohc=SFbgCu7LL1kAX8WLFDp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQAx5X6dv9FSACG9bWocCBBvyvMWbX6ztWjxOSf0y0k8w&oe=65489189",NSTV HD 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
+#EXTINF:-1 tvg-chno="21"  tvg-id="ENS.th" tvg-name="ENS Gobal HD 21" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/359660697_1293314481391683_2225605153677230779_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGhmpSHpuSH93RoILouSB8zmyQfkpyigbubJB-SnKKBuy_Exr7CKoNFUKRK_jC-W22M6X1Vh5teFQR64es_RM42&_nc_ohc=TV6BZ8HnzjIAX-0MOnJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT0ZBV6K3PqLIPEJbGEFX-GWW8qHSxD8dDYqYcrh6KVyA&oe=65487FBB",ENS Gobal HD 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
 #EXTINF:-1 tvg-chno="22"  tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -97,49 +113,53 @@ https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-chno="37" group-title="Digital TV" tvg-name="อนุบาล1",อนุบาล1
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-chno="38" group-title="Digital TV" tvg-name="อนุบาล2",อนุบาล2
+#EXTINF:-1 tvg-chno="38"  tvg-id="mintv.th" tvg-name="Mintv HD 38" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/371427300_849101193515874_825255128164887622_n.png?_nc_cat=107&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHseo9KtzweOqFrknX_gwLHTixBTmzOx2BOLEFObM7HYC8wIonTLBpLgqxf5_5LZPg1RuzlAzdWtsQ5EesqBsw-&_nc_ohc=KlHLW977v8QAX87Tm38&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRVK-HM39YpweRGM21bBZuHs-mnhlYztOs3-eqR1Pw8MQ&oe=65489BA2",Mintv HD 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-chno="38" group-title="Digital TV" tvg-name="อนุบาล2",อนุบาล2
 https://cdn-live.dltv.ac.th/dltv11.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-chno="39" group-title="Digital TV" tvg-name="อนุบาล3",อนุบาล3
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-chno="39" group-title="Digital TV" tvg-name="อนุบาล3",อนุบาล3
 https://cdn-live.dltv.ac.th/dltv12.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-chno="40" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่1",ประถมศึกษาปีที่1
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-chno="40" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่1",ประถมศึกษาปีที่1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-chno="41" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่2",ประถมศึกษาปีที่2
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-chno="41" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่2",ประถมศึกษาปีที่2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-chno="42" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่3",ประถมศึกษาปีที่3
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-chno="42" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่3",ประถมศึกษาปีที่3
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-chno="43" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่4",ประถมศึกษาปีที่4
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-chno="43" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่4",ประถมศึกษาปีที่4
 https://cdn-live.dltv.ac.th/dltv04.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-chno="44" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่5",ประถมศึกษาปีที่5
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-chno="44" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่5",ประถมศึกษาปีที่5
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-chno="45" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่6",ประถมศึกษาปีที่6
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-chno="45" group-title="Digital TV" tvg-name="ประถมศึกษาปีที่6",ประถมศึกษาปีที่6
 https://cdn-live.dltv.ac.th/dltv06.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-chno="46" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่1",มัธยมศึกษาปีที่1
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-chno="46" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่1",มัธยมศึกษาปีที่1
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 
-#EXTINF:-1 tvg-id="47" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-chno="47" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่2",มัธยมศึกษาปีที่2
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-chno="47" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่2",มัธยมศึกษาปีที่2
 https://cdn-live.dltv.ac.th/dltv08.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-chno="48" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่3",มัธยมศึกษาปีที่3
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-chno="48" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่3",มัธยมศึกษาปีที่3
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-chno="49" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่4",มัธยมศึกษาปีที่4
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-chno="49" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่4",มัธยมศึกษาปีที่4
 https://cdn-live.dltv.ac.th/dltv13.m3u8
 
-#EXTINF:-1 tvg-id="50" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-chno="50" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่5",มัธยมศึกษาปีที่5
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-chno="50" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่5",มัธยมศึกษาปีที่5
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
+#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="Digital TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-chno="52"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
+#EXTINF:-1 tvg-chno="48"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stmv1.srvif.com/animetv/animetv/chunklist_w2111242232.m3u8
 
