@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-chno="1"  tvg-id="intro.th" tvg-name="INTRO" group-title="Main" tvg-logo="https://user-images.githubusercontent.com/111126064/273805877-f6ca905c-8b8f-4252-a1bc-5c96a79ffac8.png",INTRO
+#EXTINF:-1 tvg-chno="0"  tvg-id="intro.th" tvg-name="INTRO" group-title="Main" tvg-logo="https://user-images.githubusercontent.com/111126064/273805877-f6ca905c-8b8f-4252-a1bc-5c96a79ffac8.png",INTRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273801348-d263cb25-28e7-415a-b336-37a585b00caf.MOV
 
@@ -10,6 +10,10 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
 
+#EXTINF:-1 tvg-chno="2"  tvg-id="nawapontv.th" tvg-name="NaWAPON TV" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/387477930_1389234325282529_1646419807193811087_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEHo1v9uQkAMcwmRiBZV78SZkL7LA8zB5tmQvssDzMHm9WTnZsoMZctpXrB9t50yF1dqy04-IB8Mu27NguoS5_7&_nc_ohc=qpU0XcE8gWYAX-D4l_j&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRQczYDnONbZj408Co_d-R9Orn_u59cy6scfGSsT_aS5g&oe=654CC099",NAWAPON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
 #EXTINF:-1 tvg-chno="3"  tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/OFsQwvv.png",THAI PBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
@@ -17,6 +21,10 @@ https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
 #EXTINF:-1 tvg-chno="4"  tvg-id="ALTV.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+
+#EXTINF:-1 tvg-chno="04"  tvg-id="gaming 4.th" tvg-name="GAMING 4" group-title="Online TV" tvg-logo="https://i.imgur.com/zxgCdl0.png",GAMING 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
 #EXTINF:-1 tvg-chno="5"  tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/4MIQNPQ.png",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -34,6 +42,10 @@ https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/TPTV3/index.m3u8
 
+#EXTINF:-1 tvg-chno="10"  tvg-id="nwaponnews.th" tvg-name="NWP NEWS" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/387536512_1072427687460230_4167807472502087873_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHLEmZPbl7amWe6zfyz4ZYMAq_bMq1N0qMCr9syrU3So8WYoqxue8tQmjLOWrK4vKydNdfHrqNXwUEv6nw_bJJx&_nc_ohc=Z9ApFjDMxPkAX-Gd9-m&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRAVBGa6lMPtjDzvXEsQGwswjKGziZ_ii9itK6Qe3eOzA&oe=654B6267",NWP NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
 #EXTINF:-1 tvg-chno="12"  tvg-id="wetv.th" tvg-name="WETV12HD" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/299011410_1665732837161053_8691854547771547591_n.png?_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEnCplvJhW2-FAAlayD04rEkNuZfjXyWSCQ25l-NfJZIGqwrZGZcITQiUDI-QQ3_05OuiwZzrAbsQWaUdTLtRBI&_nc_ohc=h8mt7rji3qoAX96OBbN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR3Jx8it-vmfxIn4Vpj3aTFCxKrrZ_1L_GLFR4ixxADNg&oe=6548B867",WETV12HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
@@ -42,7 +54,11 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
-#EXTINF:-1 tvg-chno="15"  tvg-id="nwaponnews.th" tvg-name="NWP NEWS" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/387536512_1072427687460230_4167807472502087873_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHLEmZPbl7amWe6zfyz4ZYMAq_bMq1N0qMCr9syrU3So8WYoqxue8tQmjLOWrK4vKydNdfHrqNXwUEv6nw_bJJx&_nc_ohc=Z9ApFjDMxPkAX-Gd9-m&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRAVBGa6lMPtjDzvXEsQGwswjKGziZ_ii9itK6Qe3eOzA&oe=654B6267",NWP NEWS
+#EXTINF:-1 tvg-chno="14"  tvg-id="mintvfamily.th" tvg-name="Mintv FAMILY HD" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/370083856_861732232333674_3502308783996899383_n.png?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeFj5i9JUQCmrZC-NumDCkdygX_XIcWJ5D-Bf9chxYnkP8tlcyErp02mAGKJgSla3alv1244Kp09udW8BpMVDSYJ&_nc_ohc=3lhhSEQKi_QAX_eqxuU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSir-TnCPri8WqgzrOTT_1YZa3VD0BXxvnmSw_xOBR8mg&oe=654CF036",Mintv FAMILY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
+#EXTINF:-1 tvg-chno="15"  tvg-id="Mintv.th" tvg-name="MINTV HD" group-title="Online TV" tvg-logo="",MINTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
@@ -50,25 +66,41 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
 
+#EXTINF:-1 tvg-chno="16"  tvg-id="maybe.th" tvg-name="MAYBE TELEVISION" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/370221099_310303398381882_615644742440186952_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeE-LFd6YAybNaT5-o_RgCtVVnQUEE0-aepWdBQQTT5p6glC4LVQfHQRFZ64ce1uwrMbUUgPL3I_wqPQaIdLylJH&_nc_ohc=tLKwusytpUUAX9DoATc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTFn3rQJR25TQo6r2ye_DpkXHcf1Mup3UkrUJlVNrVMOw&oe=654CE40C",MAYBE TELEVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
 #EXTINF:-1 tvg-chno="17"  tvg-id="17CHHD.th" tvg-name="17 CHANNELHD" group-title="Online TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-0YYK3F1vs2jfd2KEfinj5vjkzA_fCnXibe-_Em1JLWBD0tkSQ3CCBS5jucE9SvxJMghH6H1RbP0OK1UUJnJ2Y1IWQiLsBam-70117X6x-eYcOMSr-C8PkFhrrrYfCyINL5OILKMB0Rz-OoL-_0i5Vf1_iwaGI8ZKqxO4FzQtLtcWwV2Z5KY4W41YwlE/s1192/untitled_by_417hd_dfxzst5-pre.png",17 CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://outbound-production.explore.org/stream-production-35/.m3u8
+https://user-images.githubusercontent.com/111126064/273955783-b08273ee-f1a4-4eeb-b661-41cb76e1bb14.mp4
 
 #EXTINF:-1 tvg-chno="18"  tvg-id="JKN18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
 
+#EXTINF:-1 tvg-chno="18"  tvg-id="Auronic.th" tvg-name="AURONIC TV HD 18" group-title="Online TV" tvg-logo="https://z-p3-scontent.fbkk3-3.fna.fbcdn.net/v/t1.15752-9/387542241_165768736591059_264341845421403959_n.jpg?stp=dst-jpg_p403x403&_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeFun1n0i5ebwXF9oGJF_nZ3yvaE7UqZ-QrK9oTtSpn5Cp2rjW1uVISFBOX6x6VT_CvtBjRW6GxjK3yJ7wTLKPm_&_nc_ohc=LN29Eh4LYfQAX-zxc4Y&_nc_ht=z-p3-scontent.fbkk3-3.fna&oh=03_AdRR1raJvxH_gLIY0brZa4r30oR1cf9_gCTjE0250rUGtA&oe=654CD10D",AURONIC TV HD 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
 #EXTINF:-1 tvg-chno="19"  tvg-id="nstv.th" tvg-name="NSTV HD 19" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/358302969_1736754440094746_3004011572599768573_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGWoTMPFCABD5QwKuhqS7JS_2JlpOQ2jv__YmWk5DaO_yFKxG4ySzfFJ8uBDTFVJCTmM8vpDckD5DBr1L-c-9zi&_nc_ohc=SFbgCu7LL1kAX8WLFDp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQAx5X6dv9FSACG9bWocCBBvyvMWbX6ztWjxOSf0y0k8w&oe=65489189",NSTV HD 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
-#EXTINF:-1 tvg-chno="21"  tvg-id="ENS.th" tvg-name="ENS Gobal HD 21" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/359660697_1293314481391683_2225605153677230779_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGhmpSHpuSH93RoILouSB8zmyQfkpyigbubJB-SnKKBuy_Exr7CKoNFUKRK_jC-W22M6X1Vh5teFQR64es_RM42&_nc_ohc=TV6BZ8HnzjIAX-0MOnJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT0ZBV6K3PqLIPEJbGEFX-GWW8qHSxD8dDYqYcrh6KVyA&oe=65487FBB",ENS Gobal HD 21
+#EXTINF:-1 tvg-chno="20"  tvg-id="ENS.th" tvg-name="ENS Gobal HD 21" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/359660697_1293314481391683_2225605153677230779_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGhmpSHpuSH93RoILouSB8zmyQfkpyigbubJB-SnKKBuy_Exr7CKoNFUKRK_jC-W22M6X1Vh5teFQR64es_RM42&_nc_ohc=TV6BZ8HnzjIAX-0MOnJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT0ZBV6K3PqLIPEJbGEFX-GWW8qHSxD8dDYqYcrh6KVyA&oe=65487FBB",ENS Gobal HD 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
+#EXTINF:-1 tvg-chno="21"  tvg-id="21CHHD.th" tvg-name="21 CHANNELHD" group-title="Online TV" tvg-logo="https://user-images.githubusercontent.com/111126064/273962838-3ac86c60-ce13-4b2c-9aeb-af1ab7bce65a.png",21 CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://outbound-production.explore.org/stream-production-33/.m3u8
 
 #EXTINF:-1 tvg-chno="22"  tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+
+#EXTINF:-1 tvg-chno="22"  tvg-id="21CHHD.th" tvg-name="AURONIC ANIME TV" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/387549387_1258210752239113_2386394811888030917_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEDiI9uwKMtJX6DP8d-NkEGe3W4XGMfVih7dbhcYx9WKNqG5O6vs4dAIyAi8_eqf99RJjMl5aXMjb0zeIAQMdGL&_nc_ohc=apSeLM8v04AAX-DXAZt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTwgPFaf5nT6LbF_6Wv6Cdis-JGYZfnBZbrllIFjK5eAQ&oe=654CCCC0",AURONIC ANIME TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://outbound-production.explore.org/stream-production-33/.m3u8
 
 #EXTINF:-1 tvg-chno="23"  tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/oxf6BRn.png",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -82,7 +114,15 @@ https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
 
-#EXTINF:-1 tvg-chno="28"  tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
+#EXTINF:-1 tvg-chno="25"  tvg-id="otvnews.th" tvg-name="OTV NEWS" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/341392438_993539292059690_5347904924087409926_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEbblmdSM0AZfhvJaGT8q1AEhDQ97bep7ISEND3tt6nskrm4NRT8YiyF53kHiqNiP4Ak8kBMV4-roM1Ql5E_oAh&_nc_ohc=jE8n3uqjhM0AX9nHWYV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSLXB9n1JQyXVoTqBYxaqzb0adKww8EbBsgnvYn7medtw&oe=654CC0BB",OTV NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
+
+#EXTINF:-1 tvg-chno="27"  tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+
+#EXTINF:-1 tvg-chno="28"  tvg-id="anime.th" tvg-name="28 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
 
@@ -93,6 +133,10 @@ https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
 #EXTINF:-1 tvg-chno="30"  tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="30"  tvg-id="OTV.th" tvg-name="OTV HD 30" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/387483166_288016384060076_7701061130294968355_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHYLAmvBuCUavlFq169lxT2kp2EPcjThxWSnYQ9yNOHFTL8nTdi5t3qelv3P2KA1Rb9kSBOloHyYCAAcr9UPkgA&_nc_ohc=6LTeWWR5NwYAX8-N18_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSKNCc3j85PkeOUf73a23r5vTPh1w4aJQVb5J5qvVF68w&oe=654CD3CD",OTV HD 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
 #EXTINF:-1 tvg-chno="31"  tvg-id="One31.th" tvg-name="ONE HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/9apyiI0.png",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -118,17 +162,9 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 
-#EXTINF:-1 tvg-chno="38"  tvg-id="mintv.th" tvg-name="Mintv HD 38" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/371427300_849101193515874_825255128164887622_n.png?_nc_cat=107&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHseo9KtzweOqFrknX_gwLHTixBTmzOx2BOLEFObM7HYC8wIonTLBpLgqxf5_5LZPg1RuzlAzdWtsQ5EesqBsw-&_nc_ohc=KlHLW977v8QAX87Tm38&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRVK-HM39YpweRGM21bBZuHs-mnhlYztOs3-eqR1Pw8MQ&oe=65489BA2",Mintv HD 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
-
-#EXTINF:-1 tvg-chno="47"  tvg-id="nawapontv.th" tvg-name="NaWAPON TV" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/368773356_248284384845355_7760142332752645849_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGdmKA3W9-0yoxHjaRWtbBkEQCt5-kYv6gRAK3n6Ri_qBM0aS-VbRAAWVRJpfSpt7kz7_VaObgOKBlatNJJP8nM&_nc_ohc=AZ7pb1w4A-YAX9ploya&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR6NhExHKYvXTEDdCZrl2V1UxOMF-956WWhsb_5KCr3ZQ&oe=654B5442",NAWAPON TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
-
 #EXTINF:-1 tvg-chno="48"  tvg-id="417animetv.th" tvg-name="417 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lzFcJEy7odHQGVJxm9aItYC-Iz-_D0hdelHtH6K2YjT94U7LCieSWWPvvS2SeNBLQMplM90acXBR2nz_zZY-4q5oslNyub4yh-xQhZcNQc1QrmnVPEoLjpX_ES800z5V8a_Xk3_a_BRaE3ID5wJZ18xlS82K-1k9HTt5KFb0LQvFsUnvQCOCGVKuzB0/s1280/367355565_280328497954945_6498433631171143459_n.jpg",417 ANIME CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stmv1.srvif.com/animetv/animetv/chunklist_w2111242232.m3u8
+https://user-images.githubusercontent.com/111126064/273956154-5ba7bba7-8d46-4def-9b84-5883b48fb7b1.mp4
 
 #EXTINF:-1 tvg-chno="53"  tvg-id="boom.th" tvg-name="Boomerang TH" group-title="Satellite TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5i0jnG1L2ldECz8hq6VygylWUQ0TWG1S_yozMXIJK442ytc&s",Boomerang TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
