@@ -124,7 +124,7 @@ https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
 
 #EXTINF:-1 tvg-chno="28"  tvg-id="anime.th" tvg-name="28 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="29"  tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
