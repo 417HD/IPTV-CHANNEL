@@ -122,7 +122,7 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
 
-#EXTINF:-1 tvg-chno="28"  tvg-id="anime.th" tvg-name="28 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
+#EXTINF:-1 tvg-chno="28"  tvg-id="anime.th" tvg-name="28 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://user-images.githubusercontent.com/111126064/273963208-a9bcbea3-3841-4a57-8719-06f02731a2f1.png",28 ANIME CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
