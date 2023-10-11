@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
-#EXTINF:-1 tvg-chno="15"  tvg-id="Mintv.th" tvg-name="MINTV HD" group-title="Online TV" tvg-logo="src="https://user-images.githubusercontent.com/111126064/274210620-4730099b-5157-4a5d-943b-8acb98f7c208.png",MINTV HD
+#EXTINF:-1 tvg-chno="15"  tvg-id="Mintv.th" tvg-name="MINTV HD" group-title="Online TV" tvg-logo="https://user-images.githubusercontent.com/111126064/274210620-4730099b-5157-4a5d-943b-8acb98f7c208.png",MINTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925-84ba-a0858e3457c2.mp4
 
