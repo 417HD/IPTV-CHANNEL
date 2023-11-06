@@ -11,7 +11,7 @@ http://asia.vthanhtivi.pw/TBS/index.m3u8
 http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
 #EXTINF:32, TV Asahi
 http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:32,program
+#EXTINF:32,TV TOKYO
 http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
 #EXTINF:32, TOKYO MX1
 http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
@@ -19,19 +19,6 @@ http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
 http://asia.vthanhtivi.pw/BS11/index.m3u8
 #EXTINF:0, AT-X
 http://asia.vthanhtivi.pw/AT-X/index.m3u8
-#EXTINF:0, MTV
-https://asia.vthanhtivi.pw/MTV/index.m3u8
-#EXTINF:0, NHK G Nagano (Test)
-http://for-testonly.ra1n.lol/NHKG-Nagano/index.m3u8
-#EXTINF:0, TOKYO MX1 (Test)
-http://for-testonly.ra1n.lol/mx1/index.m3u8
-#EXTINF:0, Chiba TV
-http://for-testonly.ra1n.lol/chibatv/index.m3u8
-#EXTINF:0, TVS
-http://for-testonly.ra1n.lol/teletama/index.m3u8
-#EXTINF:0, BS11 HD (Test)
-http://for-testonly.ra1n.lol/bs11/index.m3u8
-#EXTINF:0, AT-X HD (Test)
 http://for-testonly.ra1n.lol/at-x/index.m3u8
 #EXTINF:0, Tokai TV (Test)
 http://for-testonly.ra1n.lol/tokaitv/index.m3u8
