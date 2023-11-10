@@ -222,6 +222,32 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
+#EXTINF:32, NHK G 
+http://asia.vthanhtivi.pw/NHK_G/index.m3u8
+#EXTINF:32, NHK E
+http://asia.vthanhtivi.pw/NHK_E/index.m3u8
+#EXTINF:32, NTV
+http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+#EXTINF:32, TBS 
+http://asia.vthanhtivi.pw/TBS/index.m3u8
+#EXTINF:32, Fuji TV
+http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+#EXTINF:32, TV Asahi
+http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
+#EXTINF:32,TV TOKYO
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+#EXTINF:32, TOKYO MX1
+http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+#EXTINF:0, BS11
+http://asia.vthanhtivi.pw/BS11/index.m3u8
+#EXTINF:0, AT-X
+http://asia.vthanhtivi.pw/AT-X/index.m3u8
+http://for-testonly.ra1n.lol/at-x/index.m3u8
+#EXTINF:0, Tokai TV (Test)
+http://for-testonly.ra1n.lol/tokaitv/index.m3u8
+#EXTINF:0, Nagoya TV (Test)
+http://for-testonly.ra1n.lol/nagoyatv/index.m3u8
+
 #EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-chno="37" group-title="Satellite TV" tvg-name="อนุบาล1",อนุบาล1
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
