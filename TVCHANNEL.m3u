@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 
 #EXTINF:-1 tvg-chno="21"  tvg-id="21CHHD.th" tvg-name="21 CHANNELHD" group-title="Online TV" tvg-logo="https://user-images.githubusercontent.com/111126064/273962838-3ac86c60-ce13-4b2c-9aeb-af1ab7bce65a.png",21 CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://outbound-production.explore.org/stream-production-33/.m3u8
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="22"  tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
