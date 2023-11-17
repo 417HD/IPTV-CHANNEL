@@ -136,7 +136,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="29"  tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8ฃ
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
 
 #EXTINF:-1 tvg-chno="H"  tvg-id="jtw.th" tvg-name="JTW TV CHANNEL HD" group-title="Online TV" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/364547293_237814169212012_8249403263460009680_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeFecBRa6qgLzF3uKiPxiw3xGF_rZ4l95pwYX-tniX3mnNC8YMvY0uiHPxYWYZzvsfgZ5cptO2B_hU_hu7aB4W7G&_nc_ohc=T7z_F_9qnVcAX_9RXth&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRIq68zTVVvqNV_3sEWmANsXh5PmdW98rlrRgs-HVfcVQ&oe=654CF2A5",JTW TV CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
