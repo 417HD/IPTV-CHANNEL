@@ -222,76 +222,76 @@ https://user-images.githubusercontent.com/111126064/273370150-2d2f81c4-8426-4925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
-#EXTINF:32, NHK G 
+#EXTINF:-1 tvg-chno="90" group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
 http://asia.vthanhtivi.pw/NHK_G/index.m3u8
-#EXTINF:32, NHK E
-http://asia.vthanhtivi.pw/NHK_E/index.m3u8
-#EXTINF:32, NTV
-http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
-#EXTINF:32, TBS 
-http://asia.vthanhtivi.pw/TBS/index.m3u8
-#EXTINF:32, Fuji TV
-http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
-#EXTINF:32, TV Asahi
-http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:32,TV TOKYO
-http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
-#EXTINF:32, TOKYO MX1
-http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
-#EXTINF:0, BS11
-http://asia.vthanhtivi.pw/BS11/index.m3u8
-#EXTINF:0, AT-X
-http://for-testonly.ra1n.lol/at-x/index.m3u8
-#EXTINF:0, Tokai TV (Test)
-http://for-testonly.ra1n.lol/tokaitv/index.m3u8
-#EXTINF:0, Nagoya TV (Test)
-http://for-testonly.ra1n.lol/nagoyatv/index.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-chno="37" group-title="Satellite TV" tvg-name="อนุบาล1",อนุบาล1
+#EXTINF:-1 tvg-chno="91" group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
+http://asia.vthanhtivi.pw/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-chno="92" group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+
+#EXTINF:-1 tvg-chno="93" group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
+http://asia.vthanhtivi.pw/TBS/index.m3u8
+
+#EXTINF:-1 tvg-chno="94" group-title="Tokyo" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
+http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+
+#EXTINF:-1 tvg-chno="95" group-title="Tokyo" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
+http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
+
+#EXTINF:-1 tvg-chno="96" group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 tvg-chno="97" group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-chno="37" group-title="Satellite TV" tvg-name="อนุบาล1",อนุบาล1
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-chno="38" group-title="Satellite TV" tvg-name="อนุบาล2",อนุบาล2
+#EXTINF:-1 tvg-id="131" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu2.png" tvg-chno="38" group-title="Satellite TV" tvg-name="อนุบาล2",อนุบาล2
 https://cdn-live.dltv.ac.th/dltv11.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-chno="39" group-title="Satellite TV" tvg-name="อนุบาล3",อนุบาล3
+#EXTINF:-1 tvg-id="132" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu3.png" tvg-chno="39" group-title="Satellite TV" tvg-name="อนุบาล3",อนุบาล3
 https://cdn-live.dltv.ac.th/dltv12.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-chno="40" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่1",ประถมศึกษาปีที่1
+#EXTINF:-1 tvg-id="133" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom1.png" tvg-chno="40" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่1",ประถมศึกษาปีที่1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-chno="41" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่2",ประถมศึกษาปีที่2
+#EXTINF:-1 tvg-id="134" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom2.png" tvg-chno="41" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่2",ประถมศึกษาปีที่2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-chno="42" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่3",ประถมศึกษาปีที่3
+#EXTINF:-1 tvg-id="135" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-chno="42" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่3",ประถมศึกษาปีที่3
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-chno="43" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่4",ประถมศึกษาปีที่4
+#EXTINF:-1 tvg-id="136" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-chno="43" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่4",ประถมศึกษาปีที่4
 https://cdn-live.dltv.ac.th/dltv04.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-chno="44" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่5",ประถมศึกษาปีที่5
+#EXTINF:-1 tvg-id="137" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom5.png" tvg-chno="44" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่5",ประถมศึกษาปีที่5
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-chno="45" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่6",ประถมศึกษาปีที่6
+#EXTINF:-1 tvg-id="138" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom6.png" tvg-chno="45" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่6",ประถมศึกษาปีที่6
 https://cdn-live.dltv.ac.th/dltv06.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-chno="46" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่1",มัธยมศึกษาปีที่1
+#EXTINF:-1 tvg-id="139" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty1.png" tvg-chno="46" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่1",มัธยมศึกษาปีที่1
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-chno="47" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่2",มัธยมศึกษาปีที่2
+#EXTINF:-1 tvg-id="140" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty2.png" tvg-chno="47" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่2",มัธยมศึกษาปีที่2
 https://cdn-live.dltv.ac.th/dltv08.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-chno="48" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่3",มัธยมศึกษาปีที่3
+#EXTINF:-1 tvg-id="141" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty3.png" tvg-chno="48" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่3",มัธยมศึกษาปีที่3
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-chno="49" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่4",มัธยมศึกษาปีที่4
+#EXTINF:-1 tvg-id="142" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty4.png" tvg-chno="49" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่4",มัธยมศึกษาปีที่4
 https://cdn-live.dltv.ac.th/dltv13.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-chno="50" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่5",มัธยมศึกษาปีที่5
+#EXTINF:-1 tvg-id="143" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty5.png" tvg-chno="50" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่5",มัธยมศึกษาปีที่5
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
+#EXTINF:-1 tvg-id="144" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1 tvg-chno="90"  tvg-id="bbc.th" tvg-name="BBC NEWS" group-title="International TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEQlWOsFVyGCf7ceR7QoGrST3ULRnZIfP6QtRbGb-bA&s",BBC NEWS
+
+#EXTINF:-1 tvg-chno="145"  tvg-id="bbc.th" tvg-name="BBC NEWS" group-title="International TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEQlWOsFVyGCf7ceR7QoGrST3ULRnZIfP6QtRbGb-bA&s",BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8
 
