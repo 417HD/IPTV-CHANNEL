@@ -36,7 +36,7 @@ https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
 
 #EXTINF:-1 tvg-chno="21"  tvg-id="puppycam.th" tvg-name="PUPPY CAM" group-title="Online TV" tvg-logo="https://i.ytimg.com/vi/FMwLobdh3qs/maxresdefault.jpg",PUPPY CAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://github.com/417HD/17televisionx.github.io/raw/none/17channelhdlive.m3u8
+https://outbound-production.explore.org/stream-production-56/.m3u8
 
 #EXTINF:-1 tvg-chno="22"  tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -57,10 +57,6 @@ https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
 #EXTINF:-1 tvg-chno="27"  tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
-
-#EXTINF:-1 tvg-chno="28"  tvg-id="anime.th" tvg-name="28 ANIME CHANNEL" group-title="Online TV" tvg-logo="https://user-images.githubusercontent.com/111126064/273963208-a9bcbea3-3841-4a57-8719-06f02731a2f1.png",28 ANIME CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="29"  tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
