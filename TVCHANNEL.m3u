@@ -98,6 +98,10 @@ https://symc-cdn.violin.co.th/tndedge/whitechannel/chunklist_w386511427.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="145"  tvg-id="bbc.th" tvg-name="BBC NEWS" group-title="International TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEQlWOsFVyGCf7ceR7QoGrST3ULRnZIfP6QtRbGb-bA&s",BBC NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8
+
 #EXTINF:-1 tvg-chno="56"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Online TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-35/.m3u8
@@ -203,6 +207,3 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo-small="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-logo="http://m3u.at/data_file/tvlogo2/mty6.png" tvg-chno="51" group-title="Satellite TV" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-chno="145"  tvg-id="bbc.th" tvg-name="BBC NEWS" group-title="International TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEQlWOsFVyGCf7ceR7QoGrST3ULRnZIfP6QtRbGb-bA&s",BBC NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8
