@@ -98,11 +98,11 @@ https://symc-cdn.violin.co.th/tndedge/whitechannel/chunklist_w386511427.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="145"  tvg-id="bbc.th" tvg-name="BBC NEWS" group-title="International TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEQlWOsFVyGCf7ceR7QoGrST3ULRnZIfP6QtRbGb-bA&s",BBC NEWS
+#EXTINF:-1 tvg-chno="56"  tvg-id="bbc.th" tvg-name="BBC NEWS" group-title="International TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEQlWOsFVyGCf7ceR7QoGrST3ULRnZIfP6QtRbGb-bA&s",BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8
 
-#EXTINF:-1 tvg-chno="56"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Online TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
+#EXTINF:-1 tvg-chno="57"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Online TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-35/.m3u8
 
@@ -110,9 +110,9 @@ https://outbound-production.explore.org/stream-production-35/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://news1.live14.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 tvg-chno="59"  tvg-id="bbcamerica.th" tvg-name="BBC America" group-title="International TV" tvg-logo="https://play-lh.googleusercontent.com/3-OllDHiJzCKpx3omEd8LVRh9-NKS1dLj7oygTf0NPwrtrC06Hl7ULYgcxbmcaGRY_mN",BBC America
+#EXTINF:-1 tvg-chno="59"  tvg-id="RT.th" tvg-name="Russia Today" group-title="International TV" tvg-logo="https://play-lh.googleusercontent.com/6Tw-laDsQ1cG3o2Is5YVgmx_5PZLFWuYjLXtbhKk9-3E8jJK55ORBlNO-zIiyt6QdA",Russia Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="60"  tvg-id="mvtv.th" tvg-name="MVTV CHANNEL" group-title="Satellite TV" tvg-logo="https://jobs.techtalkthai.com/wp-content/uploads/2019/05/mvtv.png",MVTV CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
