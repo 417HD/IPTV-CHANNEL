@@ -92,7 +92,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 
 #EXTINF:-1 tvg-chno="54"  tvg-id="white.th" tvg-name="White Channel" group-title="Satellite TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/whitechannel.png",White Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://symc-cdn.violin.co.th/tndedge/whitechannel/chunklist_w386511427.m3u8
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="55"  tvg-id="cnn.th" tvg-name="CNN" group-title="International TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
