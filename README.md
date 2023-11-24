@@ -1,3 +1,2 @@
 #Thailand-IPTV
-https://github.com/417HD/IPTV-CHANNEL/raw/master/TVCHANNEL.m3u
-https://github.com/417HD/IPTV-CHANNEL/raw/master/jp-iptv.m3u
+M3U:https://417hd.github.io/IPTV-CHANNEL/TVCHANNEL.m3u
