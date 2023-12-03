@@ -36,7 +36,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8?checkedby:iptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8?checkedby:iptvchthai
 
-#EXTINF:-1 tvg-chno="21"  tvg-id="puppycam.th" tvg-name="PUPPY CAM" group-title="Online TV" tvg-logo="https://i.ytimg.com/vi/FMwLobdh3qs/maxresdefault.jpg",PUPPY CAM
+#EXTINF:-1 tvg-chno="21"  tvg-id="puppycam.th" tvg-name="PUPPY CAM" group-title="Livecam TV" tvg-logo="https://i.ytimg.com/vi/FMwLobdh3qs/maxresdefault.jpg",PUPPY CAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-56/.m3u8?checkedby:iptvchthai
 
@@ -92,6 +92,10 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8?checkedby:iptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8?checkedby:iptvchthai
 
+#EXTINF:-1 tvg-chno="53"  tvg-id="bangkok.th" tvg-name="Bangkok - Thailand Live cam" group-title="Livecam TV" tvg-logo="https://user-images.githubusercontent.com/111126064/273805877-f6ca905c-8b8f-4252-a1bc-5c96a79ffac8.png",Bangkok - Thailand Live cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://hd-auth.skylinewebcams.com/live.m3u8?a=u80m294gjn1csijto5j8pdn2g5
+
 #EXTINF:-1 tvg-chno="54"  tvg-id="white.th" tvg-name="White Channel" group-title="Satellite TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/whitechannel.png",White Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/playlist.m3u8?checkedby:iptvchthai
@@ -104,7 +108,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8?checkedby:iptvchthai
 
-#EXTINF:-1 tvg-chno="57"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Online TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
+#EXTINF:-1 tvg-chno="57"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Livecam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://outbound-production.explore.org/stream-production-35/.m3u8?checkedby:iptvchthai
 
