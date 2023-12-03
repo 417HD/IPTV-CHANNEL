@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://417hd.github.io/IPTV-CHANNEL/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
+
 #EXTINF:-1 tvg-chno="0"  tvg-id="intro.th" tvg-name="INTRO" group-title="Main" tvg-logo="https://user-images.githubusercontent.com/111126064/273805877-f6ca905c-8b8f-4252-a1bc-5c96a79ffac8.png",INTRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://user-images.githubusercontent.com/111126064/273801348-d263cb25-28e7-415a-b336-37a585b00caf.MOV
