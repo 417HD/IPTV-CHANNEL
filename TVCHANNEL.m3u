@@ -241,6 +241,7 @@ https://cdn-live.dltv.ac.th/dltv02.m3u8?checkedby:iptvchthai
 #EXTINF:-1 tvg-id="135" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom3.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom3.png" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่3",ประถมศึกษาปีที่3
 https://cdn-live.dltv.ac.th/dltv03.m3u8?checkedby:iptvchthai
 
+
 #EXTINF:-1 tvg-id="136" tvg-logo-small="http://m3u.at/data_file/tvlogo2/pratom4.png" tvg-logo="http://m3u.at/data_file/tvlogo2/pratom4.png" group-title="Satellite TV" tvg-name="ประถมศึกษาปีที่4",ประถมศึกษาปีที่4
 https://cdn-live.dltv.ac.th/dltv04.m3u8?checkedby:iptvchthai
 
@@ -310,3 +311,14 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8?checkedby:iptvchthai
 #EXTINF:-1 tvg-chno="155"  tvg-id="BOX FILM.th" tvg-name="BOX FILM" group-title="Satellite TV" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8?checkedby:iptvchthai
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax HD🇻🇳
+#EXTVLCOPT:http-user-agent=KhichTivi
+http://vthanhtivi.pw:5000/animax/index.m3u8
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime" tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="Japan",AMAGI TV🇳🇿
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime" tvg-logo="https://i.imgur.com/AR5BoZd.jpg" group-title="Japan",ADN TV🇳🇿
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+#EXTINF:-1tvg-id="animaxhd"group-title="Anime" tvg-logo="https://tv0800.xyz/wp-content/uploads/2022/07/anime-tv-2.webp",Anime TV🇵🇷
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1807204345.m3u8
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime" tvg-logo="https://tv0800.xyz/wp-content/uploads/2022/07/jetsons.webp" group-title="Japan",Jetsons 24Horas
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w846306557.m3u8
