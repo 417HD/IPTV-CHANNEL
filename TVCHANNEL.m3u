@@ -316,9 +316,5 @@ https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8?checkedby:iptvch
 http://vthanhtivi.pw:5000/animax/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime" tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="Japan",AMAGI TV🇳🇿
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime" tvg-logo="https://i.imgur.com/AR5BoZd.jpg" group-title="Japan",ADN TV🇳🇿
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 #EXTINF:-1tvg-id="animaxhd"group-title="Anime" tvg-logo="https://tv0800.xyz/wp-content/uploads/2022/07/anime-tv-2.webp",Anime TV🇵🇷
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1807204345.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime" tvg-logo="https://tv0800.xyz/wp-content/uploads/2022/07/jetsons.webp" group-title="Japan",Jetsons 24Horas
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w846306557.m3u8
