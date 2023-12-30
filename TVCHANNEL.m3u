@@ -158,7 +158,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvch
 
 #EXTINF:-1 tvg-chno="56"  tvg-id="bbc.th" tvg-name="BBC NEWS" group-title="International TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEQlWOsFVyGCf7ceR7QoGrST3ULRnZIfP6QtRbGb-bA&s",BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8?checkedby:iptvchthai
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 tvg-chno="57"  tvg-id="panda.th" tvg-name="Panda Channel" group-title="Livecam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX7WlwkCPys2ImuEW1DENULZYJiHa9Ims1koF6htAhdofpJbH&s",Panda Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
